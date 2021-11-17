@@ -5,7 +5,11 @@ A repository for paper: A (Un-)Supervised Auto-Denoising for Bone Reconstruction
 ## introduction
 
 This is a repository for our paper: A repository for paper: A (Un-)Supervised Auto-Denoising for Bone Reconstruction Images
+
 The paper is under review. 
-We will release the code once it will be accepted.
+
+We will release the code once it will be accepted. We will keep updating this repository.
+
+Thank you for your interest! 
 
 
